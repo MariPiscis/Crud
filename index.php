@@ -5,6 +5,6 @@
     <title>Prueba de github</title>
 </head>
 <body>
-    <h1>Iniciando Prueba</h1>
+    <h1>iIniciando Prueba</h1>
 </body>
 </html>
